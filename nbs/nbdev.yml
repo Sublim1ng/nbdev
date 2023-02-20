@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://Sublim1ng.github.io/nbdev"
+  description: "first try"
+  repo-branch: main
+  repo-url: "https://github.com/Sublim1ng/nbdev"
